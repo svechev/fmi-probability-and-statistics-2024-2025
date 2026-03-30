@@ -1,12 +1,13 @@
-# fmi-probability-and-statistics-2024-2025
-Solutions in R for problems during the mandatory course Probability and Statistics 2024-2025 in FMI, Sofia University.  
+# Probability and Statistics in R – FMI (2024–2025)
+This repository contains solutions in R to a wide range of problems in probability and statistics, completed as part of the mandatory course at FMI, Sofia University.
 
-# Contents
-- directories:
-  - data - the data used for the problems
-  - solutions - R files with solutions for the problems
-- problems - file that contains the formulations of the problems
-- notes - notes on R and statistics, used in the course
+The work covers simulation methods, statistical inference, exploratory data analysis, and regression modeling.
+
+# Structure
+- data – datasets used in the problems
+- solutions – R scripts containing solutions
+- problems – file with problem statements
+- notes – notes on R and statistical concepts
 
 # Problems
 - Problems 1–17: Estimating probabilities using simulation methods
